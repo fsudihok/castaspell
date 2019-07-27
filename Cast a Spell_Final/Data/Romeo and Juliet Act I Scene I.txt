@@ -1,0 +1,585 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
+THE TRAGEDY OF ROMEO AND JULIET\
+\
+\
+\
+by William Shakespeare\
+\
+\
+\
+\
+\
+\
+Contents\
+\
+THE PROLOGUE.\
+\
+ACT I\
+Scene I. A public place.\
+Scene II. A Street.\
+Scene III. Room in Capulet\'92s House.\
+Scene IV. A Street.\
+Scene V. A Hall in Capulet\'92s House.\
+\
+\
+ACT II\
+CHORUS.\
+Scene I. An open place adjoining Capulet\'92s Garden.\
+Scene II. Capulet\'92s Garden.\
+Scene III. Friar Lawrence\'92s Cell.\
+Scene IV. A Street.\
+Scene V. Capulet\'92s Garden.\
+Scene VI. Friar Lawrence\'92s Cell.\
+\
+\
+ACT III\
+Scene I. A public Place.\
+Scene II. A Room in Capulet\'92s House.\
+Scene III. Friar Lawrence\'92s cell.\
+Scene IV. A Room in Capulet\'92s House.\
+Scene V. An open Gallery to Juliet\'92s Chamber, overlooking the Garden.\
+\
+\
+ACT IV\
+Scene I. Friar Lawrence\'92s Cell.\
+Scene II. Hall in Capulet\'92s House.\
+Scene III. Juliet\'92s Chamber.\
+Scene IV. Hall in Capulet\'92s House.\
+Scene V. Juliet\'92s Chamber; Juliet on the bed.\
+\
+\
+ACT V\
+Scene I. Mantua. A Street.\
+Scene II. Friar Lawrence\'92s Cell.\
+Scene III. A churchyard; in it a Monument belonging to the Capulets.\
+\
+\
+\
+\
+ Dramatis Person\'e6\
+\
+ESCALUS, Prince of Verona.\
+MERCUTIO, kinsman to the Prince, and friend to Romeo.\
+PARIS, a young Nobleman, kinsman to the Prince.\
+Page to Paris.\
+\
+MONTAGUE, head of a Veronese family at feud with the Capulets.\
+LADY MONTAGUE, wife to Montague.\
+ROMEO, son to Montague.\
+BENVOLIO, nephew to Montague, and friend to Romeo.\
+ABRAM, servant to Montague.\
+BALTHASAR, servant to Romeo.\
+\
+CAPULET, head of a Veronese family at feud with the Montagues.\
+LADY CAPULET, wife to Capulet.\
+JULIET, daughter to Capulet.\
+TYBALT, nephew to Lady Capulet.\
+CAPULET\'92S COUSIN, an old man.\
+NURSE to Juliet.\
+PETER, servant to Juliet\'92s Nurse.\
+SAMPSON, servant to Capulet.\
+GREGORY, servant to Capulet.\
+Servants.\
+\
+FRIAR LAWRENCE, a Franciscan.\
+FRIAR JOHN, of the same Order.\
+An Apothecary.\
+CHORUS.\
+Three Musicians.\
+An Officer.\
+Citizens of Verona; several Men and Women, relations to both houses;\
+Maskers, Guards, Watchmen and Attendants.\
+\
+SCENE. During the greater part of the Play in Verona; once, in the\
+Fifth Act, at Mantua.\
+\
+\
+THE PROLOGUE\
+\
+ Enter Chorus.\
+\
+CHORUS.\
+Two households, both alike in dignity,\
+In fair Verona, where we lay our scene,\
+From ancient grudge break to new mutiny,\
+Where civil blood makes civil hands unclean.\
+From forth the fatal loins of these two foes\
+A pair of star-cross\'92d lovers take their life;\
+Whose misadventur\'92d piteous overthrows\
+Doth with their death bury their parents\'92 strife.\
+The fearful passage of their death-mark\'92d love,\
+And the continuance of their parents\'92 rage,\
+Which, but their children\'92s end, nought could remove,\
+Is now the two hours\'92 traffic of our stage;\
+The which, if you with patient ears attend,\
+What here shall miss, our toil shall strive to mend.\
+\
+ [_Exit._]\
+\
+\
+\
+ACT I\
+\
+SCENE I. A public place.\
+\
+ Enter Sampson and Gregory armed with swords and bucklers.\
+\
+SAMPSON.\
+Gregory, on my word, we\'92ll not carry coals.\
+\
+GREGORY.\
+No, for then we should be colliers.\
+\
+SAMPSON.\
+I mean, if we be in choler, we\'92ll draw.\
+\
+GREGORY.\
+Ay, while you live, draw your neck out o\'92 the collar.\
+\
+SAMPSON.\
+I strike quickly, being moved.\
+\
+GREGORY.\
+But thou art not quickly moved to strike.\
+\
+SAMPSON.\
+A dog of the house of Montague moves me.\
+\
+GREGORY.\
+To move is to stir; and to be valiant is to stand: therefore, if thou\
+art moved, thou runn\'92st away.\
+\
+SAMPSON.\
+A dog of that house shall move me to stand.\
+I will take the wall of any man or maid of Montague\'92s.\
+\
+GREGORY.\
+That shows thee a weak slave, for the weakest goes to the wall.\
+\
+SAMPSON.\
+True, and therefore women, being the weaker vessels, are ever thrust to\
+the wall: therefore I will push Montague\'92s men from the wall, and\
+thrust his maids to the wall.\
+\
+GREGORY.\
+The quarrel is between our masters and us their men.\
+\
+SAMPSON.\
+\'92Tis all one, I will show myself a tyrant: when I have fought with the\
+men I will be civil with the maids, I will cut off their heads.\
+\
+GREGORY.\
+The heads of the maids?\
+\
+SAMPSON.\
+Ay, the heads of the maids, or their maidenheads; take it in what sense\
+thou wilt.\
+\
+GREGORY.\
+They must take it in sense that feel it.\
+\
+SAMPSON.\
+Me they shall feel while I am able to stand: and \'92tis known I am a\
+pretty piece of flesh.\
+\
+GREGORY.\
+\'92Tis well thou art not fish; if thou hadst, thou hadst been poor John.\
+Draw thy tool; here comes of the house of Montagues.\
+\
+ Enter Abram and Balthasar.\
+\
+SAMPSON.\
+My naked weapon is out: quarrel, I will back thee.\
+\
+GREGORY.\
+How? Turn thy back and run?\
+\
+SAMPSON.\
+Fear me not.\
+\
+GREGORY.\
+No, marry; I fear thee!\
+\
+SAMPSON.\
+Let us take the law of our sides; let them begin.\
+\
+GREGORY.\
+I will frown as I pass by, and let them take it as they list.\
+\
+SAMPSON.\
+Nay, as they dare. I will bite my thumb at them, which is disgrace to\
+them if they bear it.\
+\
+ABRAM.\
+Do you bite your thumb at us, sir?\
+\
+SAMPSON.\
+I do bite my thumb, sir.\
+\
+ABRAM.\
+Do you bite your thumb at us, sir?\
+\
+SAMPSON.\
+Is the law of our side if I say ay?\
+\
+GREGORY.\
+No.\
+\
+SAMPSON.\
+No sir, I do not bite my thumb at you, sir; but I bite my thumb, sir.\
+\
+GREGORY.\
+Do you quarrel, sir?\
+\
+ABRAM.\
+Quarrel, sir? No, sir.\
+\
+SAMPSON.\
+But if you do, sir, am for you. I serve as good a man as you.\
+\
+ABRAM.\
+No better.\
+\
+SAMPSON.\
+Well, sir.\
+\
+ Enter Benvolio.\
+\
+GREGORY.\
+Say better; here comes one of my master\'92s kinsmen.\
+\
+SAMPSON.\
+Yes, better, sir.\
+\
+ABRAM.\
+You lie.\
+\
+SAMPSON.\
+Draw, if you be men. Gregory, remember thy washing blow.\
+\
+ [_They fight._]\
+\
+BENVOLIO.\
+Part, fools! put up your swords, you know not what you do.\
+\
+ [_Beats down their swords._]\
+\
+ Enter Tybalt.\
+\
+TYBALT.\
+What, art thou drawn among these heartless hinds?\
+Turn thee Benvolio, look upon thy death.\
+\
+BENVOLIO.\
+I do but keep the peace, put up thy sword,\
+Or manage it to part these men with me.\
+\
+TYBALT.\
+What, drawn, and talk of peace? I hate the word\
+As I hate hell, all Montagues, and thee:\
+Have at thee, coward.\
+\
+ [_They fight._]\
+\
+ Enter three or four Citizens with clubs.\
+\
+FIRST CITIZEN.\
+Clubs, bills and partisans! Strike! Beat them down!\
+Down with the Capulets! Down with the Montagues!\
+\
+ Enter Capulet in his gown, and Lady Capulet.\
+\
+CAPULET.\
+What noise is this? Give me my long sword, ho!\
+\
+LADY CAPULET.\
+A crutch, a crutch! Why call you for a sword?\
+\
+CAPULET.\
+My sword, I say! Old Montague is come,\
+And flourishes his blade in spite of me.\
+\
+ Enter Montague and his Lady Montague.\
+\
+MONTAGUE.\
+Thou villain Capulet! Hold me not, let me go.\
+\
+LADY MONTAGUE.\
+Thou shalt not stir one foot to seek a foe.\
+\
+ Enter Prince Escalus, with Attendants.\
+\
+PRINCE.\
+Rebellious subjects, enemies to peace,\
+Profaners of this neighbour-stained steel,\'97\
+Will they not hear? What, ho! You men, you beasts,\
+That quench the fire of your pernicious rage\
+With purple fountains issuing from your veins,\
+On pain of torture, from those bloody hands\
+Throw your mistemper\'92d weapons to the ground\
+And hear the sentence of your moved prince.\
+Three civil brawls, bred of an airy word,\
+By thee, old Capulet, and Montague,\
+Have thrice disturb\'92d the quiet of our streets,\
+And made Verona\'92s ancient citizens\
+Cast by their grave beseeming ornaments,\
+To wield old partisans, in hands as old,\
+Canker\'92d with peace, to part your canker\'92d hate.\
+If ever you disturb our streets again,\
+Your lives shall pay the forfeit of the peace.\
+For this time all the rest depart away:\
+You, Capulet, shall go along with me,\
+And Montague, come you this afternoon,\
+To know our farther pleasure in this case,\
+To old Free-town, our common judgement-place.\
+Once more, on pain of death, all men depart.\
+\
+ [_Exeunt Prince and Attendants; Capulet, Lady Capulet, Tybalt,\
+ Citizens and Servants._]\
+\
+MONTAGUE.\
+Who set this ancient quarrel new abroach?\
+Speak, nephew, were you by when it began?\
+\
+BENVOLIO.\
+Here were the servants of your adversary\
+And yours, close fighting ere I did approach.\
+I drew to part them, in the instant came\
+The fiery Tybalt, with his sword prepar\'92d,\
+Which, as he breath\'92d defiance to my ears,\
+He swung about his head, and cut the winds,\
+Who nothing hurt withal, hiss\'92d him in scorn.\
+While we were interchanging thrusts and blows\
+Came more and more, and fought on part and part,\
+Till the Prince came, who parted either part.\
+\
+LADY MONTAGUE.\
+O where is Romeo, saw you him today?\
+Right glad I am he was not at this fray.\
+\
+BENVOLIO.\
+Madam, an hour before the worshipp\'92d sun\
+Peer\'92d forth the golden window of the east,\
+A troubled mind drave me to walk abroad,\
+Where underneath the grove of sycamore\
+That westward rooteth from this city side,\
+So early walking did I see your son.\
+Towards him I made, but he was ware of me,\
+And stole into the covert of the wood.\
+I, measuring his affections by my own,\
+Which then most sought where most might not be found,\
+Being one too many by my weary self,\
+Pursu\'92d my humour, not pursuing his,\
+And gladly shunn\'92d who gladly fled from me.\
+\
+MONTAGUE.\
+Many a morning hath he there been seen,\
+With tears augmenting the fresh morning\'92s dew,\
+Adding to clouds more clouds with his deep sighs;\
+But all so soon as the all-cheering sun\
+Should in the farthest east begin to draw\
+The shady curtains from Aurora\'92s bed,\
+Away from light steals home my heavy son,\
+And private in his chamber pens himself,\
+Shuts up his windows, locks fair daylight out\
+And makes himself an artificial night.\
+Black and portentous must this humour prove,\
+Unless good counsel may the cause remove.\
+\
+BENVOLIO.\
+My noble uncle, do you know the cause?\
+\
+MONTAGUE.\
+I neither know it nor can learn of him.\
+\
+BENVOLIO.\
+Have you importun\'92d him by any means?\
+\
+MONTAGUE.\
+Both by myself and many other friends;\
+But he, his own affections\'92 counsellor,\
+Is to himself\'97I will not say how true\'97\
+But to himself so secret and so close,\
+So far from sounding and discovery,\
+As is the bud bit with an envious worm\
+Ere he can spread his sweet leaves to the air,\
+Or dedicate his beauty to the sun.\
+Could we but learn from whence his sorrows grow,\
+We would as willingly give cure as know.\
+\
+ Enter Romeo.\
+\
+BENVOLIO.\
+See, where he comes. So please you step aside;\
+I\'92ll know his grievance or be much denied.\
+\
+MONTAGUE.\
+I would thou wert so happy by thy stay\
+To hear true shrift. Come, madam, let\'92s away,\
+\
+ [_Exeunt Montague and Lady Montague._]\
+\
+BENVOLIO.\
+Good morrow, cousin.\
+\
+ROMEO.\
+Is the day so young?\
+\
+BENVOLIO.\
+But new struck nine.\
+\
+ROMEO.\
+Ay me, sad hours seem long.\
+Was that my father that went hence so fast?\
+\
+BENVOLIO.\
+It was. What sadness lengthens Romeo\'92s hours?\
+\
+ROMEO.\
+Not having that which, having, makes them short.\
+\
+BENVOLIO.\
+In love?\
+\
+ROMEO.\
+Out.\
+\
+BENVOLIO.\
+Of love?\
+\
+ROMEO.\
+Out of her favour where I am in love.\
+\
+BENVOLIO.\
+Alas that love so gentle in his view,\
+Should be so tyrannous and rough in proof.\
+\
+ROMEO.\
+Alas that love, whose view is muffled still,\
+Should, without eyes, see pathways to his will!\
+Where shall we dine? O me! What fray was here?\
+Yet tell me not, for I have heard it all.\
+Here\'92s much to do with hate, but more with love:\
+Why, then, O brawling love! O loving hate!\
+O anything, of nothing first create!\
+O heavy lightness! serious vanity!\
+Misshapen chaos of well-seeming forms!\
+Feather of lead, bright smoke, cold fire, sick health!\
+Still-waking sleep, that is not what it is!\
+This love feel I, that feel no love in this.\
+Dost thou not laugh?\
+\
+BENVOLIO.\
+No coz, I rather weep.\
+\
+ROMEO.\
+Good heart, at what?\
+\
+BENVOLIO.\
+At thy good heart\'92s oppression.\
+\
+ROMEO.\
+Why such is love\'92s transgression.\
+Griefs of mine own lie heavy in my breast,\
+Which thou wilt propagate to have it prest\
+With more of thine. This love that thou hast shown\
+Doth add more grief to too much of mine own.\
+Love is a smoke made with the fume of sighs;\
+Being purg\'92d, a fire sparkling in lovers\'92 eyes;\
+Being vex\'92d, a sea nourish\'92d with lovers\'92 tears:\
+What is it else? A madness most discreet,\
+A choking gall, and a preserving sweet.\
+Farewell, my coz.\
+\
+ [_Going._]\
+\
+BENVOLIO.\
+Soft! I will go along:\
+And if you leave me so, you do me wrong.\
+\
+ROMEO.\
+Tut! I have lost myself; I am not here.\
+This is not Romeo, he\'92s some other where.\
+\
+BENVOLIO.\
+Tell me in sadness who is that you love?\
+\
+ROMEO.\
+What, shall I groan and tell thee?\
+\
+BENVOLIO.\
+Groan! Why, no; but sadly tell me who.\
+\
+ROMEO.\
+Bid a sick man in sadness make his will,\
+A word ill urg\'92d to one that is so ill.\
+In sadness, cousin, I do love a woman.\
+\
+BENVOLIO.\
+I aim\'92d so near when I suppos\'92d you lov\'92d.\
+\
+ROMEO.\
+A right good markman, and she\'92s fair I love.\
+\
+BENVOLIO.\
+A right fair mark, fair coz, is soonest hit.\
+\
+ROMEO.\
+Well, in that hit you miss: she\'92ll not be hit\
+With Cupid\'92s arrow, she hath Dian\'92s wit;\
+And in strong proof of chastity well arm\'92d,\
+From love\'92s weak childish bow she lives uncharm\'92d.\
+She will not stay the siege of loving terms\
+Nor bide th\'92encounter of assailing eyes,\
+Nor ope her lap to saint-seducing gold:\
+O she\'92s rich in beauty, only poor\
+That when she dies, with beauty dies her store.\
+\
+BENVOLIO.\
+Then she hath sworn that she will still live chaste?\
+\
+ROMEO.\
+She hath, and in that sparing makes huge waste;\
+For beauty starv\'92d with her severity,\
+Cuts beauty off from all posterity.\
+She is too fair, too wise; wisely too fair,\
+To merit bliss by making me despair.\
+She hath forsworn to love, and in that vow\
+Do I live dead, that live to tell it now.\
+\
+BENVOLIO.\
+Be rul\'92d by me, forget to think of her.\
+\
+ROMEO.\
+O teach me how I should forget to think.\
+\
+BENVOLIO.\
+By giving liberty unto thine eyes;\
+Examine other beauties.\
+\
+ROMEO.\
+\'92Tis the way\
+To call hers, exquisite, in question more.\
+These happy masks that kiss fair ladies\'92 brows,\
+Being black, puts us in mind they hide the fair;\
+He that is strucken blind cannot forget\
+The precious treasure of his eyesight lost.\
+Show me a mistress that is passing fair,\
+What doth her beauty serve but as a note\
+Where I may read who pass\'92d that passing fair?\
+Farewell, thou canst not teach me to forget.\
+\
+BENVOLIO.\
+I\'92ll pay that doctrine, or else die in debt.\
+\
+ [_Exeunt._]\
+\
+}
